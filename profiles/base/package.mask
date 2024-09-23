@@ -1,3 +1,0 @@
-sys-kernel/chromeos-kernel-6_1::chromiumos
-media-libs/minigbm::jemaos-patches
-sys-kernel/linux-firmware::jemaos-patches
