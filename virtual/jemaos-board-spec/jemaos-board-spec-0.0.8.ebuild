@@ -11,7 +11,7 @@ SLOT="0"
 KEYWORDS="*"
 
 RDEPEND="
-    virtual/jemaos-board-spec
+    virtual/openjemaos-board-spec
     chromeos-base/device-appid
     media-libs/intel-ipu6se-camera-bins
 "
