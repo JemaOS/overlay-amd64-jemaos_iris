@@ -13,7 +13,7 @@ IUSE=""
 
 RDEPEND="
     chromeos-base/auto-expand-partition
-	chromeos-base/apple-touchpad-bcm5974
+    chromeos-base/apple-touchpad-bcm5974
     chromeos-base/amd64-jemaos-iris-spec
     sys-firmware/mssl1680-firmware
     sys-apps/haveged
